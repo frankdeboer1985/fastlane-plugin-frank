@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.author        = 'Frank de Boer'
   spec.email         = 'frank.de.boer@nl.abnamro.com'
 
-  spec.summary       = 'Frank's awesome plugin'
+  spec.summary       = 'Franks awesome plugin'
   # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-frank"
   spec.license       = "MIT"
 
