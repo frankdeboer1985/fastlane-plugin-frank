@@ -9,7 +9,7 @@ module Fastlane
       end
 
       def self.description
-        "Frank's awesome plugin"
+        "Franks awesome plugin"
       end
 
       def self.authors
